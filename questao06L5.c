@@ -1,3 +1,15 @@
+//6. Foi realizada uma pesquisa com 200 pessoas que assistiram uma peça de teatro, em relação a sua opinião sobre a mesma. 
+//Cada espectador respondeu a um questionário que solicitava os seguintes dados:
+// - idade da pessoa;
+// - o identificador da pessoa;
+// - opinião em relação à peça(de 0 a 10).
+//Faça um programa que, a partir destes dados, calcule e imprima:
+//a.A quantidade de respostas 10.
+//b.A média de idade das pessoas que responderam o questionário.
+//c.A percentagem de pessoas que responderam 5 ou menos para a opinião da peça.
+//d.O identificador da pessoa mais velha.
+//* Considere que a maior idade não é repetida.
+
 #include <stdio.h>
 
 int main() {
